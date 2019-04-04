@@ -1,0 +1,54 @@
+1554374428844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nokb3W2eFHAJ"
+
+(firefox:26100): Gtk-WARNING **: 16:10:28.913: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:26100): Gtk-WARNING **: 16:10:28.913: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:26100): Gtk-WARNING **: 16:10:28.920: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:26100): Gtk-WARNING **: 16:10:28.920: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:26100): Gtk-WARNING **: 16:10:28.920: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:26100): Gtk-WARNING **: 16:10:28.921: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1554374429193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1554374429193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1554374429193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:26240): Gtk-WARNING **: 16:10:33.161: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:26240): Gtk-WARNING **: 16:10:33.161: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:26240): Gtk-WARNING **: 16:10:33.169: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:26240): Gtk-WARNING **: 16:10:33.169: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:26240): Gtk-WARNING **: 16:10:33.169: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:26240): Gtk-WARNING **: 16:10:33.169: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:26261): Gtk-WARNING **: 16:10:33.354: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:26261): Gtk-WARNING **: 16:10:33.354: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:26261): Gtk-WARNING **: 16:10:33.360: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:26261): Gtk-WARNING **: 16:10:33.361: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:26261): Gtk-WARNING **: 16:10:33.361: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:26261): Gtk-WARNING **: 16:10:33.361: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:26338): Gtk-WARNING **: 16:10:34.470: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:26338): Gtk-WARNING **: 16:10:34.470: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:26338): Gtk-WARNING **: 16:10:34.476: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:26338): Gtk-WARNING **: 16:10:34.476: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:26338): Gtk-WARNING **: 16:10:34.477: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:26338): Gtk-WARNING **: 16:10:34.477: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1554374434550	Marionette	INFO	Listening on port 33037
+1554374434567	Marionette	WARN	TLS certificate errors will be ignored for this session
